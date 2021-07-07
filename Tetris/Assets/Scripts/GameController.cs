@@ -95,10 +95,10 @@ public class GameController : MonoBehaviour
     {
         blocks = new Transform[cols, rows];
 
-        float left    = -2.85f;
-        float right   = 2.85f;
-        float top     = 4.35f;
-        float bottom  = -2.6f;
+        float left    = -2.6f;
+        float right   = 2.6f;
+        float top     = 3.9f;
+        float bottom  = -2.35f;
 
         float dy   = (top - bottom);
         float dx   = (right - left);
