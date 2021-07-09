@@ -58,6 +58,7 @@
     <Compile Include="Assets\Scripts\RankSystem.cs" />
     <Compile Include="Assets\Scripts\ScoreTetris.cs" />
     <Compile Include="Assets\Scripts\SceneController.cs" />
+    <Compile Include="Assets\Scripts\ParticleAutoDestoryer.cs" />
     <Compile Include="Assets\Scripts\setOfBlockArrays.cs" />
     <Compile Include="Assets\Scripts\CTetris.cs" />
     <Compile Include="Assets\Scripts\Tetris.cs" />

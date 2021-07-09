@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - FadeEffect_TMP
     - GameController
+    - ParticleAutoDestoryer
     - RankSystem
     - SceneController
     - ScoreTextViewer
@@ -10,7 +11,6 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
-    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.IK.Runtime.dll:
     - UnityEditor.U2D.IK.IKEditorManagerHelper
     Unity.2D.Tilemap.Editor.dll:
@@ -78,17 +78,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3086}
     - Class: 114
-      Script: {instanceID: 5216}
+      Script: {instanceID: 4406}
     - Class: 114
-      Script: {instanceID: 5484}
+      Script: {instanceID: 5218}
     - Class: 114
-      Script: {instanceID: 5810}
+      Script: {instanceID: 5486}
     - Class: 114
-      Script: {instanceID: 5988}
+      Script: {instanceID: 5812}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 5990}
     - Class: 114
-      Script: {instanceID: 7558}
+      Script: {instanceID: 6320}
+    - Class: 114
+      Script: {instanceID: 7560}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -147,17 +149,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3742}
     - Class: 114
-      Script: {instanceID: 4854}
+      Script: {instanceID: 4856}
     - Class: 114
-      Script: {instanceID: 5216}
+      Script: {instanceID: 5218}
     - Class: 114
-      Script: {instanceID: 5810}
+      Script: {instanceID: 5812}
     - Class: 114
-      Script: {instanceID: 5988}
+      Script: {instanceID: 5990}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 6320}
     - Class: 114
-      Script: {instanceID: 8206}
+      Script: {instanceID: 8208}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -208,17 +210,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4170}
     - Class: 114
-      Script: {instanceID: 4452}
+      Script: {instanceID: 4454}
     - Class: 114
-      Script: {instanceID: 5216}
+      Script: {instanceID: 5218}
     - Class: 114
-      Script: {instanceID: 5810}
+      Script: {instanceID: 5812}
     - Class: 114
-      Script: {instanceID: 5988}
+      Script: {instanceID: 5990}
     - Class: 114
-      Script: {instanceID: 6318}
+      Script: {instanceID: 6320}
     - Class: 114
-      Script: {instanceID: 8206}
+      Script: {instanceID: 8208}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -680,6 +682,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ParticleAutoDestoryer
   - hash:
       serializedVersion: 2
       Hash: fd68d84f33fad85aac38f2739c0ee270
@@ -1153,4 +1161,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Intro.unity
   - Assets/Scenes/Game.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: D:/School/3-1Vacation/Unity2D/Unity2D_Tetris/Out/Tetris.apk
+  playerPath: D:/School/3-1 Vacation/Unity2D/Unity2D_Tetris/Out/Tetris.apk

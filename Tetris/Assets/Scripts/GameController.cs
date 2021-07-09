@@ -209,7 +209,7 @@ public class GameController : MonoBehaviour
                 }
                 else if ( array[y,x+dw] == 5 )
                 {
-                    blocks[y,x].GetComponent<SpriteRenderer>().color = new Color(1.0f, 0.75f, 0.8f); // Pink
+                    blocks[y,x].GetComponent<SpriteRenderer>().color = new Color(0.9f, 0, 0.9f); // Pink
                 }
                 else if ( array[y,x+dw] == 6 )
                 {
