@@ -7,7 +7,7 @@
 + https://github.com/20170375/sweng2021
 
 ## Images
-<img src="https://user-images.githubusercontent.com/62216628/124820877-fdc55580-dfa8-11eb-88b2-e27a71f842cb.PNG" width="190px"> <img src="https://user-images.githubusercontent.com/62216628/124819516-50057700-dfa7-11eb-8eb6-7986eb04b6d3.PNG" width="190px"> <img src="https://user-images.githubusercontent.com/62216628/124819568-5d226600-dfa7-11eb-8a98-f8602c7fbbd8.PNG" width="190px"> <img src="https://user-images.githubusercontent.com/62216628/124819596-64e20a80-dfa7-11eb-932c-60115390c73f.PNG" width="190px">
+<img src="https://user-images.githubusercontent.com/62216628/126870040-77b81fe5-df7b-47ed-a39e-a9dcfbb2d635.gif" width="190px"> <img src="https://user-images.githubusercontent.com/62216628/126870049-92789dfc-385d-47ad-a491-e8b220a014de.gif" width="190px"> <img src="https://user-images.githubusercontent.com/62216628/126870053-e5a4aa13-2a68-4756-ab41-77df2e0fa4e9.gif" width="190px">
 
 ## Reference
 + [[Unity] git lfs](https://morm.tistory.com/246)
